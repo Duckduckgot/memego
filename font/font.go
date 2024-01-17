@@ -4,8 +4,8 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/nomad-software/meme/data"
-	"github.com/nomad-software/meme/output"
+	"github.com/Duckduckgot/memego/data"
+	"github.com/Duckduckgot/memego/output"
 )
 
 var (
