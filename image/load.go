@@ -56,6 +56,14 @@ func Load(opt cli.Options) stream.Stream {
 	return stream.NewStream(s)
 }
 
+func LoadByte(opt []byte) stream.Stream {
+	var s io.Reader
+
+	s = bytes.NewReader(opt)
+
+	return stream.NewStream(s)
+}
+
 // Return true if the passed string is an embedded asset id, false if not.
 func isAsset(id string) bool {
 	_, ok := imageMap[id]
