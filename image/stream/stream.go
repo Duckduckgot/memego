@@ -8,7 +8,7 @@ import (
 	"io"
 	"io/ioutil"
 
-	"github.com/nomad-software/meme/output"
+	"github.com/Duckduckgot/memego/output"
 )
 
 // Stream contains information about a loaded image.
