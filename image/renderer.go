@@ -10,10 +10,10 @@ import (
 	"time"
 
 	"github.com/nfnt/resize"
-	"github.com/nomad-software/meme/cli"
-	"github.com/nomad-software/meme/data"
-	gfx "github.com/nomad-software/meme/image/draw"
-	"github.com/nomad-software/meme/image/stream"
+	"github.com/Duckduckgot/memego/cli"
+	"github.com/Duckduckgot/memego/data"
+	gfx "github.com/Duckduckgot/memego/image/draw"
+	"github.com/Duckduckgot/memego/image/stream"
 )
 
 const (
