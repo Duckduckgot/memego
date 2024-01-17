@@ -6,9 +6,9 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/nomad-software/meme/cli"
-	"github.com/nomad-software/meme/image/stream"
-	"github.com/nomad-software/meme/output"
+	"github.com/Duckduckgot/memego/cli"
+	"github.com/Duckduckgot/memego/image/stream"
+	"github.com/Duckduckgot/memego/output"
 )
 
 // Save the passed image to disk.
