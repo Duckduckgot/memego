@@ -8,8 +8,8 @@ import (
 	"strings"
 
 	"github.com/fatih/color"
-	"github.com/nomad-software/meme/data"
-	"github.com/nomad-software/meme/output"
+	"github.com/Duckduckgot/memego/data"
+	"github.com/Duckduckgot/memego/output"
 )
 
 var (
