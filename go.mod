@@ -1,4 +1,4 @@
-module github.com/nomad-software/meme
+module github.com/Duckduckgot/memego
 
 go 1.21
 
